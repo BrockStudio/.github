@@ -3,7 +3,7 @@ El bot más seguro para tu servidor de Discord, con multiples funciones y utilid
 
 ###
 
-<img align="right" height="150" src="https://cdn.brockdev.org/kronel/perfil/kronel.gif" />
+<img align="right" height="150" src="https://cdn.brockdev.org/brockdev/transparente.png" />
 
 ###
 
